@@ -1,0 +1,16 @@
+1. buat database dengan nama fifo di phpmyadmin. lalu importkan file fifo.sql
+2. jalankan di url dengan localhost/admin
+3. login dengan user = admin dan password = admin.
+
+
+__________________________________________________
+
+Mohon untuk tidak menyebarluaskan aplikasi ini tanpa seizin developer. aplikasi ini bertujuan untuk sebagai bahan referensi dan pembelajaran tentang pemrograman web. silakan gunakan dengan sebaik baiknya.
+Jika disalah gunakan tidak sesuai peraturan yang tertera dalam Read Me maka, tanggung jawab masing masing dunia maupun akhirat..
+Hargai jasa developer dengan mentaati peraturan dan kebijakannya.
+
+Salam coders...
+
+
+terimakasih...
+
